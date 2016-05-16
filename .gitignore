@@ -45,3 +45,11 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+.sass-cache/3929b0c38d6aa47775390ce7b9f66e9632270877/style.scssc
+*.scssc
+.sass-cache/cd48df91c30dd27aba108aad4f13a7b8dd6c2b4c/flex.sassc
+config.rb
+*.sassc
+css/style.css
+sass/_animation_var_color.scss
+sass/_animation_reset.scss
